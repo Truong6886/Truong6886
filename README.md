@@ -5,9 +5,9 @@
 
 <div align="center">
  
-🌱 I’m currently learning **HTML,CSS,JavaScript,ASP.NET MVC**
+🌱 I’m currently learning **Python,C++**
 
-💬 Ask me about **HTML,CSS,JavaScript ... or anything [here](https://github.com/Truong6886/Truong6886/issues)**
+💬 Ask me about **Python ... or anything [here](https://github.com/Truong6886/Truong6886/issues)**
 
  </div>
  <strong>GitHub Stats</strong>
