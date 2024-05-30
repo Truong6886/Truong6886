@@ -10,7 +10,6 @@
 💬 Ask me about **Python ... or anything [here](https://github.com/Truong6886/Truong6886/issues)**
 
  </div>
- <strong>GitHub Stats</strong>
 <br>
 <br>
 <table>
